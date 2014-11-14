@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "node_modules/grunt-cli/bin/grunt test",
-    "start": "node movie_actor_test.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
