@@ -8,4 +8,5 @@ It is a small express app that has two related resources.. actors and movies.<br
 Actors can be in many movies and a movie can have many actors.<br/>
 This app prints out that relationship.<br/>
 
-Clean, modular code was used as well as the separation of concerns principle. Each resource is in a separate file.
+Clean, modular code was used as well as the separation of concerns principle. <br/>
+Each resource is in a separate file.
