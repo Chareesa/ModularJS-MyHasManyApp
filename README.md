@@ -1,5 +1,4 @@
 <h1>Modular JS<h1>
-
 <h3>CommonJS Modules, Clean Code, and Create a Has-Many app<h3>
 
 [![Build Status](https://travis-ci.org/Chareesa/ModularJS-MyHasManyApp.svg?branch=nextBranch)](https://travis-ci.org/Chareesa/ModularJS-MyHasManyApp)
